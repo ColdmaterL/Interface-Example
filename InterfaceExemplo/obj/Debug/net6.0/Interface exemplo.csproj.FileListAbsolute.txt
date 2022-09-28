@@ -1,0 +1,15 @@
+C:\Users\lucas\Documents\C# Projects\InterfaceExemplo\obj\Debug\net6.0\Interface exemplo.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\C# Projects\InterfaceExemplo\obj\Debug\net6.0\Interface exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\C# Projects\InterfaceExemplo\obj\Debug\net6.0\Interface exemplo.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\C# Projects\InterfaceExemplo\obj\Debug\net6.0\Interface exemplo.AssemblyInfo.cs
+C:\Users\lucas\Documents\C# Projects\InterfaceExemplo\obj\Debug\net6.0\Interface exemplo.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\C# Projects\InterfaceExemplo\bin\Debug\net6.0\Interface exemplo.exe
+C:\Users\lucas\Documents\C# Projects\InterfaceExemplo\bin\Debug\net6.0\Interface exemplo.deps.json
+C:\Users\lucas\Documents\C# Projects\InterfaceExemplo\bin\Debug\net6.0\Interface exemplo.runtimeconfig.json
+C:\Users\lucas\Documents\C# Projects\InterfaceExemplo\bin\Debug\net6.0\Interface exemplo.dll
+C:\Users\lucas\Documents\C# Projects\InterfaceExemplo\bin\Debug\net6.0\Interface exemplo.pdb
+C:\Users\lucas\Documents\C# Projects\InterfaceExemplo\obj\Debug\net6.0\Interface exemplo.dll
+C:\Users\lucas\Documents\C# Projects\InterfaceExemplo\obj\Debug\net6.0\refint\Interface exemplo.dll
+C:\Users\lucas\Documents\C# Projects\InterfaceExemplo\obj\Debug\net6.0\Interface exemplo.pdb
+C:\Users\lucas\Documents\C# Projects\InterfaceExemplo\obj\Debug\net6.0\Interface exemplo.genruntimeconfig.cache
+C:\Users\lucas\Documents\C# Projects\InterfaceExemplo\obj\Debug\net6.0\ref\Interface exemplo.dll
